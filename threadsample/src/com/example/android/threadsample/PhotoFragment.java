@@ -63,6 +63,12 @@ public class PhotoFragment extends Fragment implements View.OnClickListener {
     public String getURLString() {
         return mURLString;
     }
+    
+    public int getClickCount(){
+        int count = 0;
+        count ++;
+        return count;
+    }
 
     /*
      * This callback is invoked when users click on a displayed image. The input argument is

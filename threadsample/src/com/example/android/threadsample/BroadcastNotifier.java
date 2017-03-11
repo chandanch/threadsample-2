@@ -74,4 +74,8 @@ public class BroadcastNotifier {
     public String getFileDetails() {
         
     }
+   
+    public int getRetryCount(){
+        
+    }
 }

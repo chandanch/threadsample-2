@@ -70,4 +70,8 @@ public class BroadcastNotifier {
         mBroadcaster.sendBroadcast(localIntent);
 
     }
+    
+    public String getFileDetails() {
+        
+    }
 }

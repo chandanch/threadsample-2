@@ -80,4 +80,6 @@ public final class Constants {
     public static final int STATE_LOG = -1;
 
     public static final CharSequence BLANK = " ";
+    
+    public static final String errorMessage = "Failed to get the data";
 }
